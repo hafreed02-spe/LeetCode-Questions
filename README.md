@@ -32,6 +32,7 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 | [0239-sliding-window-maximum](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
