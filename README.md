@@ -29,6 +29,7 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -81,10 +82,12 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
