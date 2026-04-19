@@ -33,6 +33,7 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
@@ -91,11 +92,13 @@ The goal is to build consistency, improve logic, and prepare for coding intervie
 | [0345-reverse-vowels-of-a-string](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/hafreed02-spe/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
